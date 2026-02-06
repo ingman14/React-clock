@@ -1,6 +1,4 @@
-import ToDoList from "./ToDoList";
 import DigitalCloc from "./DigitalClock";
-import Card from "./Card";
 
 import "./App.css";
 
